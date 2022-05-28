@@ -1,5 +1,4 @@
-/*Incluir en todos los CSS*/
-*{
+/*{
     box-sizing: border-box;
     padding: 0%;
     margin: 0%;
@@ -10,4 +9,10 @@ main{
     height: 500px;
     border: 5px solid gray;
     padding: 8px 3px;
+}
+
+*/
+html{
+    font-size: 75%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
